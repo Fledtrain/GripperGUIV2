@@ -1,5 +1,5 @@
 # GripperGUIV2 School Project
-Development of a robot gripper system and a GUI to control the to open or close system to grasp objects 
+Development of a robot gripper system and a GUI to control the open or close system to grasp objects 
 
 ## Features
 
