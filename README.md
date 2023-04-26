@@ -6,6 +6,10 @@ Development of a robot gripper system and a GUI to control the open or close sys
 - A Visually appealing GUI for a Arudino Project 
 - Open and Close the grippers on the Robot hand
 
+
+https://user-images.githubusercontent.com/100319627/234612271-39597fd4-6de1-48c8-8b7d-e3b8378a38a7.MOV
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fledtrain.github.io/E-Portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeywhitehead/)
