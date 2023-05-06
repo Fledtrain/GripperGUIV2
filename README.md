@@ -7,7 +7,14 @@ Development of a robot gripper system and a GUI to control the open or close sys
 - Open and Close the grippers on the Robot hand
 
 
+## Videos and Picture of Project
 https://user-images.githubusercontent.com/100319627/234612271-39597fd4-6de1-48c8-8b7d-e3b8378a38a7.MOV
+
+![image](https://user-images.githubusercontent.com/100319627/236640907-8fdefa01-65f8-4808-b516-3fecbc4a0fc5.png)
+![image](https://user-images.githubusercontent.com/100319627/236640736-12239d0a-2f11-4dc1-8035-d384e654295b.png)
+
+
+
 
 
 ## 🔗 Links
